@@ -1,1 +1,2 @@
 this is new branch
+hello i'm adding new line in newbranch
